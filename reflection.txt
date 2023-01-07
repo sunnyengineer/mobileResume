@@ -1,0 +1,14 @@
+strengths and weakness of your overall implementation
+I would consider the Microdata Resume Project a success. My first strongest selling point would be content. I have all the necessary content on the page and have included some extra elements which add to the project. The design would probably be my 2nd strongest selling point. I have implemented adequete coloring scheme on the page. The content is clearly layed out and well contrasted in both mobile and desktop view. My biggest weakness is the microdata. I did not dig enough into the microdata structure and how it functions. I might've been able to edit the html to my liking better if I knew what I was looking at.
+
+lessons learned
+
+I learned a lot during this project. I got more familair with boilerplate, learned how to integrate fontawesome icons, utilized things we learned in class such as css grid and media queries to make the webpage more responsive.
+
+things you’d like to improve if you were to start over on the project
+
+If I were to start over on the project, I would dig deeper into microdata and learn how to manipulate it to my liking. I would've also like to mess with css grid and flexbox more since I know I could've made more interesting layouts. I also wanted to include particle js and build a sandwich menu for the mobile view. Hero Patterns is also something I plan on working with in the future since it seems really cool and I am assuming that is what thomaswallace.net's background is running on. 
+
+discussion of the feedback you received and how you addressed those concerns
+
+My peer reviewer enjoyed the design I had going. He also said that I should focus on the content more since I was lacking in that area. I barely made any edits to the content before the review but after the feedback I recevied, I beefed up my content to make it more relevant. 
